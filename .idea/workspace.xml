@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2c11f9ed-2141-4295-9663-6810f8cba424" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/behave poc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/environment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/modules/page_objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/search.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/features/steps/search_steps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/features/environment.py" beforeDir="false" afterPath="$PROJECT_DIR$/features/environment.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +12,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="1TZL0EdjZJZHSVR9PSeVruvForR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
